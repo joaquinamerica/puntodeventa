@@ -6,7 +6,7 @@
 
 /**
  *
- * @author HP
+ * @author Joaquin Gamboa
  */
 public class apuntes {
 
